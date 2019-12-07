@@ -1,0 +1,29 @@
+% latex table generated in R 3.5.1 by xtable 1.8-2 package
+% Fri Sep 14 17:35:00 2018
+\begin{table}[ht]
+\centering
+\begin{tabular}{rrlrrlrr}
+  \hline
+dense & error\_var & model & root\_mean\_squared\_error & credible\_interval\_coverage\_95 & model & root\_mean\_squared\_error & credible\_interval\_coverage\_95 \\ 
+  \hline
+0.0 & 1.0 & mimix-0-factors & 0.0 & 0.0 & mimix-0-factors & 0.0 & 0.0 \\ 
+  0.0 & 1.0 & mimix-20-factors & 0.0 & 100.0 & mimix-20-factors & 0.3 & 100.0 \\ 
+  0.0 & 4.0 & mimix-0-factors & 0.1 & 0.0 & mimix-0-factors & 0.1 & 0.0 \\ 
+  0.0 & 4.0 & mimix-20-factors & 0.2 & 100.0 & mimix-20-factors & 0.6 & 100.0 \\ 
+  0.0 & 9.0 & mimix-0-factors & 0.1 & 0.0 & mimix-0-factors & 0.1 & 0.0 \\ 
+  0.0 & 9.0 & mimix-20-factors & 2.6 & 100.0 & mimix-20-factors & 1.8 & 100.0 \\ 
+  0.1 & 1.0 & mimix-0-factors & 2.1 & 9.7 & mimix-0-factors & 5.9 & 9.0 \\ 
+  0.1 & 1.0 & mimix-20-factors & 3.1 & 99.3 & mimix-20-factors & 5.8 & 100.0 \\ 
+  0.1 & 4.0 & mimix-0-factors & 19.2 & 6.7 & mimix-0-factors & 17.4 & 5.3 \\ 
+  0.1 & 4.0 & mimix-20-factors & 18.5 & 97.7 & mimix-20-factors & 16.3 & 96.0 \\ 
+  0.1 & 9.0 & mimix-0-factors & 25.3 & 4.7 & mimix-0-factors & 36.3 & 1.0 \\ 
+  0.1 & 9.0 & mimix-20-factors & 20.2 & 98.7 & mimix-20-factors & 43.0 & 93.0 \\ 
+  0.2 & 1.0 & mimix-0-factors & 5.5 & 19.7 & mimix-0-factors & 12.0 & 19.3 \\ 
+  0.2 & 1.0 & mimix-20-factors & 8.2 & 96.3 & mimix-20-factors & 14.3 & 96.0 \\ 
+  0.2 & 4.0 & mimix-0-factors & 32.0 & 11.3 & mimix-0-factors & 35.9 & 9.7 \\ 
+  0.2 & 4.0 & mimix-20-factors & 31.1 & 91.3 & mimix-20-factors & 31.2 & 91.3 \\ 
+  0.2 & 9.0 & mimix-0-factors & 60.4 & 5.3 & mimix-0-factors & 61.6 & 4.7 \\ 
+  0.2 & 9.0 & mimix-20-factors & 36.5 & 91.0 & mimix-20-factors & 56.6 & 90.7 \\ 
+   \hline
+\end{tabular}
+\end{table}
